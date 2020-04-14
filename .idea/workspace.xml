@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42043a96-27b4-486c-a11f-7d7a2734f1c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/test_parametrize.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_converts.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_converts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_fixtures.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_fixtures.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586811105522</updated>
       <workItem from="1586811106745" duration="4921000" />
-      <workItem from="1586849614261" duration="1313000" />
+      <workItem from="1586849614261" duration="2106000" />
     </task>
     <servers />
   </component>
