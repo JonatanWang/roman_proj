@@ -59,11 +59,3 @@ def test_input_XCIV_output_94():
 def test_input_MDCCLXXVI_output_1776():
     assert roman_to_int("MDCCLXXVI") == 1776
 
-@pytest.mark.parametrize("test_input, expected", [(1,"I"), (5,"V"), (15,"XV"),(42,"XLII"), (9,"IX"), (94,"XCIV"),(1776,"MDCCLXXVI")])
-def test_int_to_roman(test_input, expected):
-    assert int_to_roman(test_input) == expected
-
-
-@pytest.mark.parametrize("test_input, expected", [("I",1), ("V",5), ("XV",15),("XLII",42), ("IX",9), ("XCIV",94),("MDCCLXXVI",1776)])
-def test_roman_to_int(test_input, expected):
-    assert roman_to_int(test_input) == expected
