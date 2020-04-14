@@ -1,4 +1,3 @@
-import pytest
 # Test function int_to_roman
 from src.roman.converts import int_to_roman, roman_to_int
 
